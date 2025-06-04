@@ -1,4 +1,4 @@
-# Linear Regression
+# Logistic Regression
 
 ## Data
 [Heart Attack Dataset](https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid) 

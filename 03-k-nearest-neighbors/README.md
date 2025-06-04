@@ -1,4 +1,4 @@
-# Linear Regression
+# K Nearest Neighbor
 
 ## Data
 [Heart Attack Dataset](https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid) 
